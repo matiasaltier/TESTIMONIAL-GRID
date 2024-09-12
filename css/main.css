@@ -107,7 +107,6 @@
         justify-content: center;
         align-items: normal;
         max-width: 1110px;
-        max-height: 572px;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr;
         grid-template-areas: 
